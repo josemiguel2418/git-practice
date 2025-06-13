@@ -1,0 +1,98 @@
+commit 785ab6ee8f394f9ecf43d8309879defe0ae85408
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Thu Jun 12 13:42:50 2025 -0400
+
+    Agregando dos párrafos
+
+commit 4f154444039a8aff2ac70ddc768173855cf25560
+Merge: 333f2aa c958226
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Thu Jun 12 13:36:43 2025 -0400
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 333f2aa5b19828c10815dcf00a840fdd1e6ebc37
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 11 13:13:09 2025 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c958226ce7f91c507e394184427b5ef7d69cb48e
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 11 13:13:09 2025 -0400
+
+    Agregando estaciones del año
+
+commit a243ed93de577a68e2cedc845c7acc9b04f33570
+Merge: cf63651 1dbbf90
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 11 13:01:04 2025 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 1dbbf909cbfc060e6646a8147c45cd5a7279223f
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 11 12:52:23 2025 -0400
+
+    Agregando index.js al index.html
+
+commit cf63651204e3adb6aa119ab9de7298cd70985353
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 11 12:48:41 2025 -0400
+
+    Agregando style.css al index.html
+
+commit e84c1822d71a64c93f2750f0be1db277f8a665a0
+Merge: dd6ee17 faaa310
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Fri Jun 6 23:10:03 2025 -0400
+
+    Merge branch 'js'
+
+commit faaa310eb440bae870206fe5f4e7f474e465d165
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Fri Jun 6 23:04:33 2025 -0400
+
+    Creando index.js
+
+commit dd6ee177afad4aed02f6860c11c07b79d2e751d6
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Fri Jun 6 22:44:54 2025 -0400
+
+    Creando style.css
+
+commit c7adc77bfbd415b5a27ce43bdd5cd8af4ad3a26a
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 4 16:34:28 2025 -0400
+
+    Creando index.html
+
+commit 88486725f0f937d5eafcf00d5b720c95cfce3cbf
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed Jun 4 15:31:59 2025 -0400
+
+    Ignorando archivos .exe
+
+commit 0923ab121e711c810885afda1073203bfe506c20
+Author: josemiguel2418 <106440754+josemiguel2418@users.noreply.github.com>
+Date:   Fri May 30 20:14:05 2025 -0400
+
+    Create LICENSE
+
+commit 0e3ffd12f5c61081817b8e4fb780970ae501b79e
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Fri May 30 19:53:14 2025 -0400
+
+    Agregando más contenido al README
+
+commit 517d76de515f6f4fba92235d0ca47eb31e08eda2
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Fri May 30 19:04:49 2025 -0400
+
+    Agregando contenido inicial al README
+
+commit a477fb3f846b9e5cce7be0c1850ce7e0df10bc38
+Author: josemiguel2418 <josemmartinez2418@gmail.com>
+Date:   Wed May 21 22:59:06 2025 -0400
+
+    Primer commit
