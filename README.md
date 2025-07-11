@@ -3,3 +3,5 @@
 Esto es una práctica de git.
 
 Agregando más contenido al **_Readme.md_**
+
+Este commit es para oficializar nuestra version **1.0.0**.
